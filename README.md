@@ -57,10 +57,5 @@ arr = [1, 2, 3, 4, 5]
 print(determine_winner(n, arr))  
 
 
-
-
-
-
-
-Time Complexity : O(n)
+Time Complexity : O(n).
 
